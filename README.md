@@ -1,3 +1,1 @@
-This was my and @iamstef's implementation of Conway's the game of life
-for code retreat 2011. This was all done using tryjasmine.com so there's
-no test runner.
+This was the implementation me and [stefanpenner](https://github.com/stefanpenner) did for Conway's the Game of Life for code retreat 2011. This was all done using tryjasmine.com so there's no test runner.
